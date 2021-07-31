@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello, I'm Federico Rossi 👋
 
-<!--
-**artipo/artipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![C#](https://img.shields.io/badge/cSharp-advanced-green)
+![F#](https://img.shields.io/badge/fSharp-benigger-orange)
 
-Here are some ideas to get you started:
+Software Engineer @ [Orbyta](https://www.orbyta.it).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **F#**
+- 🌱 I’m currently learning **TDD** and **DDD**
+
+### 📬 Get in Touch
+
+- StackOverflow: [https://stackoverflow.com/users/12730306/federico-rossi?tab=profile][stackoverflow]
+- GitHub: [github.com/artipo][github]
+- LinkedIn: [https://www.linkedin.com/in/federico-rossi-b589701a2/][linkedin]
+- E-mail: ing.federico.rossi@outlook.com
