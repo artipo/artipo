@@ -1,12 +1,21 @@
 ### Hello, I'm Federico Rossi 👋
 
-![C#](https://img.shields.io/badge/cSharp-advanced-green)
-![F#](https://img.shields.io/badge/fSharp-benigger-orange)
+![C#](https://img.shields.io/badge/csharp-advanced-green)
+![F#](https://img.shields.io/badge/fsharp-intermediate-green)
 
-Software Engineer @ [Orbyta](https://www.orbyta.it).
+.Net Software Engineer @ [Alma Italia](https://it.almacam.com).
 
-- 🌱 I’m currently learning **F#**
-- 🌱 I’m currently learning **TDD** and **DDD**
+- F# |> I 💙
+- 💡 Skills:
+   - 🖥 Desktop
+   - ☁️ Backend
+   - 🗃 Database
+
+- 🌱 I’m currently learning:
+   - 📝 TDD
+   - 🐳 Docker
+   - ♻️ CI/CD
+   - ⚙️ Rust
 
 ### 📬 Get in Touch
 
